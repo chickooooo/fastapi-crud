@@ -1,0 +1,12 @@
+# cache files
+__pycache__
+
+# environment files
+env
+
+# code editor
+.vscode
+
+# database
+*.db
+*.sql
